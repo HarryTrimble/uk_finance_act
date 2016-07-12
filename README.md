@@ -1,6 +1,6 @@
 ## Pages added each year to UK Finance Act
 
-The UK has the longest tax code in the world ([Telegraph](https://www.theguardian.com/commentisfree/2015/feb/13/britain-tax-code-17000-pages-long-dog-whistle-very-rich), 2015), currently 15,625 pages long.
+The UK has the longest tax code in the world ([Guardian](https://www.theguardian.com/commentisfree/2015/feb/13/britain-tax-code-17000-pages-long-dog-whistle-very-rich), 2015), currently 15,625 pages long.
 
 This repository has data: 
 
